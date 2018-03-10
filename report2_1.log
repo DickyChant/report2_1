@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  9 MAR 2018 22:22
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  10 MAR 2018 14:29
 entering extended mode
 **c:/Users/Dicky/Desktop/1600011388/report2_1/report2_1
 (c:/Users/Dicky/Desktop/1600011388/report2_1/report2_1.tex
@@ -948,8 +948,6 @@ Requested font "SimHei/ICU:script=latn;language=DFLT;mapping=tex-text;" at 10.5
 Requested font "SimSun/ICU:script=latn;language=DFLT;mapping=tex-text;" at 10.5
 4pt
  -> C:/WINDOWS/Fonts/simsun.ttc
-File: 1.jpg Graphic file (type QTm)
- <use  "1.jpg" >
 Requested font "[lmroman7-regular]:mapping=tex-text" at 7.0pt
  -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman7-regular.otf
 Requested font "[lmroman5-regular]:mapping=tex-text" at 5.0pt
@@ -961,7 +959,7 @@ Requested font "cmsy10" at 10.54pt
 
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.54> not available
-(Font)              size <10.95> substituted on input line 36.
+(Font)              size <10.95> substituted on input line 21.
 
 Requested font "cmex10" at 10.95pt
  -> cmex10
@@ -971,7 +969,7 @@ Requested font "cmex7" at 5.0pt
  -> cmex7
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <10.54> not available
-(Font)              size <10.95> substituted on input line 36.
+(Font)              size <10.95> substituted on input line 21.
 
 Requested font "rsfs10" at 10.95pt
  -> rsfs10
@@ -981,8 +979,9 @@ Requested font "rsfs5" at 5.0pt
  -> rsfs5
 Requested font "cmr10" at 10.54pt
  -> cmr10
-
-Overfull \hbox (62.7481pt too wide) in paragraph at lines 36--41
+File: 1.jpg Graphic file (type QTm)
+<use  "1.jpg" >
+Overfull \hbox (63.88931pt too wide) in paragraph at lines 37--43
  [][][] 
  []
 
@@ -1002,14 +1001,9 @@ Requested font "[lmromanslant10-regular]:mapping=tex-text" at 10.54pt
 
 
 LaTeX Font Warning: Font shape `EU1/SimSun(0)/m/sl' undefined
-(Font)              using `EU1/SimSun(0)/m/n' instead on input line 72.
+(Font)              using `EU1/SimSun(0)/m/n' instead on input line 83.
 
-[2]
-Overfull \hbox (74.42224pt too wide) in paragraph at lines 96--108
- [][][] 
- []
-
-[3] [4] [5] [6] [7] (c:\Users\Dicky\Desktop\1600011388\report2_1\report2_1.aux)
+[2] [3] (c:\Users\Dicky\Desktop\1600011388\report2_1\report2_1.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41pt have occurred.
@@ -1022,16 +1016,13 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 16687 strings out of 430478
- 335662 string characters out of 3191501
- 361973 words of memory out of 3000000
- 19541 multiletter control sequences out of 15000+200000
+ 16662 strings out of 430478
+ 335137 string characters out of 3191501
+ 357973 words of memory out of 3000000
+ 19516 multiletter control sequences out of 15000+200000
  9897 words of font info for 71 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  57i,11n,36p,886b,327s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on report2_1.pdf (7 pages).
-exceptions out of 8191
- 57i,11n,36p,886b,327s stack positions out of 5000i,500n,10000p,200000b,50000s
-
-Output written on report2_1.pdf (7 pages).
+Output written on report2_1.pdf (3 pages).
+en on report2_1.pdf (3 pages).

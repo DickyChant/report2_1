@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  11 MAR 2018 16:39
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  12 MAR 2018 21:59
 entering extended mode
 **c:/Users/Dicky/Desktop/1600011388/report2_1/report2_1
 (c:/Users/Dicky/Desktop/1600011388/report2_1/report2_1.tex
@@ -1208,7 +1208,7 @@ Requested font "SimSun/ICU:script=latn;language=DFLT;mapping=tex-text;" at 10.5
  -> C:/WINDOWS/Fonts/simsun.ttc
 File: 1.jpg Graphic file (type QTm)
  <use  "1.jpg" >
-Overfull \hbox (63.88931pt too wide) in paragraph at lines 38--44
+Overfull \hbox (62.94043pt too wide) in paragraph at lines 38--44
  [][][] 
  []
 
@@ -1228,9 +1228,47 @@ Requested font "[lmromanslant10-regular]:mapping=tex-text" at 10.54pt
 
 
 LaTeX Font Warning: Font shape `EU1/SimSun(0)/m/sl' undefined
-(Font)              using `EU1/SimSun(0)/m/n' instead on input line 84.
+(Font)              using `EU1/SimSun(0)/m/n' instead on input line 85.
 
-[2] [3] (c:\Users\Dicky\Desktop\1600011388\report2_1\report2_1.aux)
+[2] [3]
+File: 2.jpg Graphic file (type QTm)
+ <use  "2.jpg" >
+Overfull \hbox (61.79921pt too wide) in paragraph at lines 142--147
+ [][][] 
+ []
+
+[4] [5] [6]
+File: 3.eps Graphic file (type eps)
+ <3.eps>
+Overfull \hbox (82.8792pt too wide) in paragraph at lines 245--250
+ [][][] 
+ []
+
+[7] [8] [9]
+File: fang.png Graphic file (type QTm)
+ <use  "fang.png" >
+File: fangfang.png Graphic file (type QTm)
+ <use  "fangfang.png" >
+File: dengbian.png Graphic file (type QTm)
+ <use  "dengbian.png" >
+File: jufang.png Graphic file (type QTm)
+
+<use  "jufang.png" >
+File: shuangyuan.png Graphic file (type QTm)
+ <use  "shuangyuan.png" >
+File: danyuan.png Graphic file (type QTm)
+ <use  "danyuan.png" >
+File: yuanmi.png Graphic file (type QTm)
+
+<use  "yuanmi.png" >
+File: fangmi.png Graphic file (type QTm)
+ <use  "fangmi.png" >
+File: shuangfang.png Graphic file (type QTm)
+ <use  "shuangfang.png" >
+File: yuanfang.png Graphic file (type QTm)
+
+<use  "yuanfang.png" > [10] [11] [12] [13]
+(c:\Users\Dicky\Desktop\1600011388\report2_1\report2_1.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41pt have occurred.
@@ -1243,13 +1281,37 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 19668 strings out of 430478
- 429850 string characters out of 3191501
- 407646 words of memory out of 3000000
- 22480 multiletter control sequences out of 15000+200000
+ 19703 strings out of 430478
+ 430259 string characters out of 3191501
+ 408646 words of memory out of 3000000
+ 22501 multiletter control sequences out of 15000+200000
  9993 words of font info for 83 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 57i,11n,37p,886b,538s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 57i,15n,37p,886b,687s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on report2_1.pdf (3 pages).
-en on report2_1.pdf (3 pages).
+Output written on report2_1.pdf (13 pages).
+png Graphic file (type QTm)
+
+<use  "yuanfang.png" > [10] [11] [12] [13]
+(c:\Users\Dicky\Desktop\1600011388\report2_1\report2_1.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.41pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 19703 strings out of 430478
+ 430259 string characters out of 3191501
+ 408721 words of memory out of 3000000
+ 22501 multiletter control sequences out of 15000+200000
+ 9993 words of font info for 83 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 57i,15n,37p,886b,687s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on report2_1.pdf (13 pages).
